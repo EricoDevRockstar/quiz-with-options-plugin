@@ -1,0 +1,23 @@
+{
+  "name": "quiz-with-options-plugin",
+  "version": "1.0.0",
+  "description": "This plugin will add a new content blocks features in your WP site. The features will be simple yet unique.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricoDevRockstar/quiz-with-options-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricoDevRockstar/quiz-with-options-plugin/issues"
+  },
+  "homepage": "https://github.com/EricoDevRockstar/quiz-with-options-plugin#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^23.3.0"
+  }
+}
